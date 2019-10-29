@@ -1,2 +1,2 @@
 # synapx_landing
-Landing page for http://synapx.com
+Landing page for http://synapx.co
